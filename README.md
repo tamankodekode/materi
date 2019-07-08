@@ -19,12 +19,11 @@ selama masih berkaitan dengan programming (software development).
 3. Apabila direktori sudah ada, maka selanjutnya buat direktori sesuai judul dan file `README.md` dalam direktori tersebut
 4. Simpanlah file tersebut dengan baik dan jangan lupa untuk di-push
 
-
 ## Aturan Penulisan
 ### Nama File/Direktori Materi
 Tulislah nama file/direktori dengan format berikut ini:
 
-**File**
+**1. File**
 
 `{nomor}-{judul-tulisan}.md`
 
@@ -32,7 +31,7 @@ Contoh:
 
 `01-instalasi-flutter-di-ubuntu.md`
 
-**Direktori**
+**2. Direktori**
 
 `{nomor}-{judul-tulisan}`
 
