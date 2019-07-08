@@ -9,9 +9,16 @@ selama masih berkaitan dengan programming (software development).
 
 ## Cara Menulis
 1. Periksa apakah tema tulisan sudah ada di direktori dalam repository ini
-2. Apabila direktori sudah ada, maka selanjutnya buat file `.md` dalam direktori tersebut
-3. Apabila belum ada, maka silakan buat direktory (pastikan sudah melakukan clone), lalu lakukan langkah ke-2
+2. Apabila belum ada, maka silakan buat direktory (pastikan sudah melakukan clone), lalu lakukan langkah ke-2
+
+### Hanya Tulisan Biasa
+3. Apabila direktori sudah ada, maka selanjutnya buat file `.md` dalam direktori tersebut
 4. Simpanlah file tersebut dengan baik dan jangan lupa untuk di-push
+
+### Tulisan dengan Media (JPG, PNG, GIF, ...)
+3. Apabila direktori sudah ada, maka selanjutnya buat direktori sesuai judul dan file `README.md` dalam direktori tersebut
+4. Simpanlah file tersebut dengan baik dan jangan lupa untuk di-push
+
 
 ## Aturan Penulisan
 ### Nama File
