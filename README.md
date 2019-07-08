@@ -35,4 +35,5 @@ Contoh:
 ## Catatan
 1. Ketika membuat file materi baru, silakan copy template yang ada di file `template.md`
 
+## Penutup
 Selamat menulis..!
