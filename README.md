@@ -21,14 +21,22 @@ selama masih berkaitan dengan programming (software development).
 
 
 ## Aturan Penulisan
-### Nama File
-Tulislah nama file dengan format berikut ini:
+### Nama File/Direktori Materi
+Tulislah nama file/direktori dengan format berikut ini:
 
+**File**
 `{nomor}-{judul-tulisan}.md`
 
 Contoh:
 
 `01-instalasi-flutter-di-ubuntu.md`
+
+**Direktori**
+`{nomor}-{judul-tulisan}`
+
+Contoh:
+
+`01-instalasi-flutter-di-ubuntu`
 
 ### Judul
 Tulislah judul dengan format berikut ini:
