@@ -25,6 +25,7 @@ selama masih berkaitan dengan programming (software development).
 Tulislah nama file/direktori dengan format berikut ini:
 
 **File**
+
 `{nomor}-{judul-tulisan}.md`
 
 Contoh:
@@ -32,6 +33,7 @@ Contoh:
 `01-instalasi-flutter-di-ubuntu.md`
 
 **Direktori**
+
 `{nomor}-{judul-tulisan}`
 
 Contoh:
