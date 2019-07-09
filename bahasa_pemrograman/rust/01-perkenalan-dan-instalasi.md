@@ -1,7 +1,6 @@
----
-date: 2019-06-09 23:00:00
-penulis: Chandra Agung Rizky (@chandraagungrizky)
----
+time | author
+-|-
+2019-06-09 23:00:00 | [Chandra Agung Rizky](https://github.com/chandraagungrizky)
 
 # Berkenalan dengan RUST
 
