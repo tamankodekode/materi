@@ -1,6 +1,4 @@
-# Belajar Bahasa RUST
-
-### **Berkenalan dengan RUST**
+# Berkenalan dengan RUST
 
 **RUST** adalah salah satu bahasa pemrograman yang dapat membantu kita dalam membuat subuah perangkat lunak yang lebih cepat dan handal. RUST memberi kita opsi untuk mengontrol detail tingkat rendah (seperti penggunaan memori) yang tidak terlalu rumit.
 
