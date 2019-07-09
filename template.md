@@ -1,8 +1,6 @@
----
-date: {tahun}-{bulan}-{tanggal} {jam}:{menit}:{detik}
-penulis: {nama penulis}
-judul: {judul}
----
+time | author
+-|-
+{tahun}-{bulan}-{tanggal} {jam}:{menit}:{detik} | [{nama penulis}](https://github.com/{username})
 
 # Judul
 
