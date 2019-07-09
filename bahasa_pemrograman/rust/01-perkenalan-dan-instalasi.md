@@ -1,3 +1,9 @@
+---
+date: 2019-06-09 23:00:00
+penulis: Chandra Agung Rizky (@chandraagungrizky)
+judul: Berkenalan dengan RUST
+---
+
 # Berkenalan dengan RUST
 
 **RUST** adalah salah satu bahasa pemrograman yang dapat membantu kita dalam membuat subuah perangkat lunak yang lebih cepat dan handal. RUST memberi kita opsi untuk mengontrol detail tingkat rendah (seperti penggunaan memori) yang tidak terlalu rumit.
