@@ -1,5 +1,5 @@
 # Materi
-Tulisan-tulisan yang menjadi materi-materi.
+Tulisan-tulisan yang menjadi materi-materi Yang ada Di Taman Kode-Kode.
 
 ## Daftar Isi
 1. [Konsep Pemrograman](https://github.com/tamankodekode/materi/tree/master/konsep_pemrograman)
