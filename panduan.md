@@ -9,7 +9,7 @@ selama masih berkaitan dengan programming (software development).
 
 ## Cara Menulis
 1. Periksa apakah tema tulisan sudah ada di direktori dalam repository ini
-2. Apabila belum ada, maka silakan buat direktory (pastikan sudah melakukan clone), lalu lakukan langkah ke-2
+2. Apabila belum ada, maka silakan buat direktory (pastikan sudah melakukan clone), lalu lakukan langkah ke-3
 
 ### Hanya Tulisan Biasa
 3. Apabila direktori sudah ada, maka selanjutnya buat file `.md` dalam direktori tersebut
