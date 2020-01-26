@@ -1,5 +1,5 @@
 | time                | author                                    |
-| ------------------- | ----------------------------------------- |
+|-|-|
 | 2020-01-26 21:47:33 | [Ginanjar S.B](https://github.com/egin10) |
 
 # Memasukan _Javascript_ ke halaman Web.
