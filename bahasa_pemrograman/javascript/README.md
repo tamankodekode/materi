@@ -5,7 +5,7 @@ Materi bahasa pemrograman Javascript (client-side).
 ### Perkenalan
 1. [Pengertian Javascript](./01-pengertian-javascript.md)
 2. Memasukan Javascript ke Halaman Web
-3. Struktur Dasar
+3. [Struktur Dasar](./03-struktur-dasar.md)
 4. Variabel
 5. Tipe Data
 6. Konversi Tipe Data
