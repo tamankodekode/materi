@@ -1,0 +1,5 @@
+##Microservice adalah 
+kumpulan proses independen dan kecil yang berkomunikasi antara satu dengan lainnya untuk membentuk aplikasi kompleks yang agnostik terhadap bahasa API apa pun. Servis-servis ini terdiri dari blok-blok kecil, terpisah, dan fokus pada tugas-tugas ringan untuk memfasilitasi metode modular dalam pembangunan sistem. Arsitektur bergaya microservice mulai menjadi standar dalam pembangunan sistem yang dinamis dan konstan berkembang.
+
+##REST API merupakan 
+implementasi dari API (Application Programming Interface). REST (Respresentation State Transfer) adalah suatu arsitektur methode komunikasi yang menggunakkan protokol HTTP untuk pertukaran data. Dimana tujuannya adalah untuk menjadikan sistem yang memiliki performa yang baik, cepat dan mudah untuk dikembangkan(scale) terutama dalam pertukaran dan komunikasi data.
