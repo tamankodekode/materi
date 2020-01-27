@@ -3,10 +3,7 @@
 Materi bahasa pemrograman Python.
 
 ## Daftar Isi
-
-### Perkenalan
-
-1. Apa itu bahasa pemrograman Python ?
+1. [Apa itu bahasa pemrograman Python ?](./01-pengenalan-python.md)
 2. Bekerja dengan interpreter python
 3. Struktur Dasar
 4. Variabel & Tipe Data
