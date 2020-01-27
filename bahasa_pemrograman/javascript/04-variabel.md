@@ -19,19 +19,16 @@ Di Javascript, terdapat 3 cara membuat/mendefinisikan variabel.
      ```js
      let diameter;
      let jarijari;
-     
-     ```
 
-  diameter = 10;
+     diameter = 10;
      jarijari = 5;
-  ```
-	
-	* **Dengan nilai awal** 
+     ```
+   * **Dengan nilai awal** 
 	
      ```js
      let panjang = 10;
      let lebar = 5;
-  ```
+     ```
 
 2. **Const**
 
