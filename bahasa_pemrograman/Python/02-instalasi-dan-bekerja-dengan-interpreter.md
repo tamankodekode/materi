@@ -147,4 +147,6 @@ hello world
 Akhir kata dari penulis semoga apa yang penulis tulis walaupun tidak bersumber langsung dari penulis tapi semoga apa yang disampaikan bermanfaat jika ada yang ingin ditanyakan bisa PC saya di telegram @gh0zialfat1h.
 # Catatan kaki
 [1](https://medium.com/@larasn_/mengenal-compiler-dan-interpreter-30610c6df554) Mengenal compiler dan interpreter.
+
+
 [2](https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/) How to install python on ubuntu 18.04.

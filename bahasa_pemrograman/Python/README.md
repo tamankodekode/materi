@@ -5,8 +5,8 @@ Materi bahasa pemrograman Python.
 ## Daftar Isi
 1. [Apa itu bahasa pemrograman Python ?](./01-pengenalan-python.md)
 2. [Installasi dan bekerja dengan interpreter python](./02-instalasi-dan-bekerja-dengan-interpreter.md)
-3. Struktur Dasar
-4. Variabel & Tipe Data
+3. [Aturan Penulisan Sintaks](./03-aturan-penulisan-sintaks.md) 
+4. [Variabel & Tipe Data](./04.variable-dan-tipe-data.md)
 5. Operator
 6. Percabangan (Decision)
 7. Perulangan (Looping)
