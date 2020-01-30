@@ -11,7 +11,7 @@ Materi bahasa pemrograman Javascript (client-side).
 3. [Struktur Dasar](./03-struktur-dasar.md)
 4. [Variabel](./04-variabel.md)
 5. [Tipe Data](./05-tipe-data.md)
-6. Konversi Tipe Data
+6. [Konversi Tipe Data](./06-konversi-tipe-data.md)
 7. Operator
 
    a. Aritmatika
