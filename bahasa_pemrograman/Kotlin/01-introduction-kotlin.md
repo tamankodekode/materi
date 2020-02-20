@@ -1,0 +1,18 @@
+time | author
+-|-
+2020-02-19 21:36:00 | [ari dwi prayogo][url_repo]
+
+# Introduction Kotlin
+
+### What is kotlin?
+**kotlin** is **statically typed language** with **type inference**. Kotlin is designed to **interoperable** to another platform like jvm, js, native code
+
+### What is kotlin used for?
+- Mobile Cross Platform
+- Server Side
+- Native
+- Web development
+- Data Science
+- Android
+
+[url_repo]: https://github.com/aridwiprayogo
