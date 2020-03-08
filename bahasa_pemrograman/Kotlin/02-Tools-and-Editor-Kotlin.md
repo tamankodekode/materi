@@ -2,11 +2,11 @@ time | author
 -|-
 2020-02-20 11:25:00 | [ari dwi prayogo](https://github.com/aridwiprayogo)
 
-# Tools and Editor in kotlin
+# Alat-alat and Editor di kotlin
 
 ### tools
-there are many tools to develop kotlin, such as:
-- kotlin compiler option
+ada banyak alat untuk mengembangkan kotlin, terdiri dari:
+- kotlin compiler
 - gradle
 - maven
 - ant

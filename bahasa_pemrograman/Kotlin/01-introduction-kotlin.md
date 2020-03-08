@@ -2,10 +2,10 @@ time | author
 -|-
 2020-02-19 21:36:00 | [ari dwi prayogo][url_repo]
 
-# Introduction Kotlin
+# Perkenalan Kotlin
 
-### What is kotlin?
-**kotlin** is **statically typed language** with **type inference**. Kotlin is designed to **interoperable** to another platform like jvm, js, native code
+### Apa itu kotlin?
+**kotlin** adalah **bahasa pemrograman yang penulisannya tipe data static** dengan **type inference**. Kotlin di desain untuk **interoperable** ke platform yang lain seperti jvm, js, native code
 
 ### What is kotlin used for?
 - Mobile Cross Platform
