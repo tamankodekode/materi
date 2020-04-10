@@ -55,4 +55,22 @@ nama,_ := "Namaku El","Aku cantiquee"
 //fmt.Println(nama,_) == error
 ```
 
+### Pointer
+
+Pointer merupakan cara untuk mengakses alamat memory (0x0302032,contoh) pada variable. Variable pointer dideklarasikan dengan asteriks (`*`) disamping tipe data, contoh `*string`. 
+
+Variable pointer berisi alamat memory, tidak berisi data sesungguhnya maka tidak bisa diassign dengan nilai selain alamat memory.
+
+Untuk mengambil alamat memori dari variable biasa mengunakan ampersand(`&`) , _address of_ (alamant dari).
+
+Untuk mengambil nilai dari alamat memory mengunakan asterik (`*`) pada variable , _value pointed by_ (nilai yang ditunjuk oleh).
+
+```go
+var nama string = "Elisa Puspita"
+  // Elisa Puspita
+var alamatNama *string = &nama
+  // alamat dari variable nama
+var namadariAlamat string = *alamatNama
+  // nilai
+```
 [WIP]
