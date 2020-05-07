@@ -10,8 +10,8 @@ Memilih alat pengembangan tentu tidak bisa sembarangan, kita harus terlebih dahu
 ## Teks Editor
 <ol>
   <li>
-    <div>Visual Studio Code (VSC)</div>
-    <div>Vscode merupakan teks editor powerful yang dikembangkan oleh microsoft.</div>
+    <div>Visual Studio Code (VSCode)</div>
+    <div>VSCode merupakan teks editor powerful yang dikembangkan oleh Microsoft.</div>
   </li>
   <li>
     <div>VSCodium</div>
