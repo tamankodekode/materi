@@ -18,5 +18,14 @@ operator | deskripsi | contoh
 -- | pengurangan 1 (decrement) | x--
 
 ## Komparasi
+operator | deskripsi | contoh
+-|-|-
+== | sama dengan | 9 == 1
+!= | tidak sama dengan | 9 != 1
+< | kurang dari | 9 < 1
+<= | kurang dari atau sama dengan | 9 <= 1
+> | lebih dari | 9 > 1
+>= | lebih dari atau sama dengan | 9 >= 1
+
 ## Logika
 ## Assignment
