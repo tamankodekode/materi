@@ -4,7 +4,7 @@ Materi bahasa pemrograman Javascript (client-side).
 
 ## Daftar Isi
 
-### Perkenalan
+### Dasar-Dasar
 
 1. [Pengertian Javascript](./01-pengertian-javascript.md)
 2. [Memasukan Javascript ke Halaman Web](./02-memasukan-javascript-ke-halaman-web.md)
