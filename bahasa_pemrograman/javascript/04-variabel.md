@@ -4,7 +4,9 @@
 
 # Variabel
 
-Variabel (__variable__) merupakan tempat/wadah untuk menyimpan data sebagai nilainya. Data yang disimpan dapat berupa teks, angka, simbol, dan banyak lagi jenis data lainnya - kita akan bahas di materi selanjutnya -.
+Variabel (__variable__) merupakan tempat/wadah untuk menyimpan data sebagai nilainya. Data yang disimpan dapat berupa teks, angka, simbol, dan banyak lagi jenis data lainnya.
+
+> Lebih detail mengenai tipe data di Javascript, dapat dibaca di [sini](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/05-tipe-data.md).
 
 Di Javascript, terdapat 3 cara membuat/mendefinisikan variabel.
 
