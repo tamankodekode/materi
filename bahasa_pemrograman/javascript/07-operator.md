@@ -35,3 +35,11 @@ operator | deskripsi | contoh
 ! | tidak (not) | !(9 == 1)
 
 ## Assignment
+operator | deskripsi | contoh
+-|-|-
+= | pemberian nilai | x = 1
++= | pemberian nilai dengan penambahan | x += 2
+-= | pemberian nilai dengan penambahan | x -= 2
+*= | pemberian nilai dengan penambahan | x *= 2
+/= | pemberian nilai dengan penambahan | x /= 2
+%= | pemberian nilai dengan penambahan | x %= 2
