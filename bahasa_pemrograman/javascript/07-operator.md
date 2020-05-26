@@ -39,7 +39,7 @@ operator | deskripsi | contoh
 -|-|-
 = | pemberian nilai | x = 1
 += | pemberian nilai dengan penambahan | x += 2
--= | pemberian nilai dengan penambahan | x -= 2
-*= | pemberian nilai dengan penambahan | x *= 2
-/= | pemberian nilai dengan penambahan | x /= 2
-%= | pemberian nilai dengan penambahan | x %= 2
+-= | pemberian nilai dengan pengurangan | x -= 2
+*= | pemberian nilai dengan perkalian | x *= 2
+/= | pemberian nilai dengan pembagian | x /= 2
+%= | pemberian nilai dengan modulus | x %= 2
