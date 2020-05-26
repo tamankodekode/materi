@@ -5,22 +5,21 @@ Materi bahasa pemrograman Javascript (client-side).
 ## Daftar Isi
 
 ### Dasar-Dasar
+1. [Pengertian Javascript](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/01-pengertian-javascript.md)
+2. [Memasukan Javascript ke Halaman Web](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/02-memasukan-javascript-ke-halaman-web.md)
+3. [Struktur Dasar](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/03-struktur-dasar.md)
+4. [Variabel](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/04-variabel.md)
+5. [Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/05-tipe-data.md)
+6. [Konversi Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/06-konversi-tipe-data.md)
+7. [Operator](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md)
 
-1. [Pengertian Javascript](./01-pengertian-javascript.md)
-2. [Memasukan Javascript ke Halaman Web](./02-memasukan-javascript-ke-halaman-web.md)
-3. [Struktur Dasar](./03-struktur-dasar.md)
-4. [Variabel](./04-variabel.md)
-5. [Tipe Data](./05-tipe-data.md)
-6. [Konversi Tipe Data](./06-konversi-tipe-data.md)
-7. Operator
+   a. [Aritmatika](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#aritmatika)
 
-   a. Aritmatika
+   b. [Komparasi](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#komparasi)
 
-   b. Komparasi
+   c. [Logika](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#logika)
 
-   c. Logika
-
-   d. Assignment
+   d. [Assignment](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#assignment)
 
 8. Percabangan (Decision)
 
