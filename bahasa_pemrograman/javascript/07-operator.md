@@ -24,8 +24,14 @@ operator | deskripsi | contoh
 != | tidak sama dengan | 9 != 1
 < | kurang dari | 9 < 1
 <= | kurang dari atau sama dengan | 9 <= 1
-> | lebih dari | 9 > 1
->= | lebih dari atau sama dengan | 9 >= 1
+\> | lebih dari | 9 > 1
+\>= | lebih dari atau sama dengan | 9 >= 1
 
 ## Logika
+operator | deskripsi | contoh
+-|-|-
+&& | dan (and) | 9 == 1 && 9 > 1
+\|\| | atau (or) | 9 == 1 \|\| 9 > 1
+! | tidak (not) | !(9 == 1)
+
 ## Assignment
