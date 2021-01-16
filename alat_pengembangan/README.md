@@ -27,7 +27,7 @@ Berikut ini jenis-jenis alat pengembangan yang disarankan dan umum digunakan ole
 ## Version Control
 <ol>
   <li>
-    <div>Git</div>
+    <div><a href="./git">Git</a></div>
     <div>Perangkat lunak pengontrol versi secara terdistribusi.</div>
   </li>
 </ol>
