@@ -4,9 +4,10 @@ Sebagai seorang pengembang (<i>developer</i>) software, seringkali kita membutuh
 
 Memilih alat pengembangan tentu tidak bisa sembarangan, kita harus terlebih dahulu menentukan:
 
-1. Apa software yang akan saya kembangkan?
-2. Platformnya? Desktop? Web? Mobile?
+1. Apa software yang akan kita kembangkan?
+2. Platformnya apa? Desktop, web, atau mobile?
 
+Berikut ini jenis-jenis alat pengembangan yang disarankan dan umum digunakan oleh software developer:
 ## Teks Editor
 <ol>
   <li>
@@ -20,5 +21,13 @@ Memilih alat pengembangan tentu tidak bisa sembarangan, kita harus terlebih dahu
   <li>
     <div>VIM</div>
     <div>Teks editor untuk superhuman hehehe</div>
+  </li>
+</ol>
+
+## Version Control
+<ol>
+  <li>
+    <div>Git</div>
+    <div>Perangkat lunak pengontrol versi secara terdistribusi.</div>
   </li>
 </ol>
