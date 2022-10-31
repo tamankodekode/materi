@@ -46,7 +46,7 @@ umur = 25
 dari contoh diatas merubah umur tidak akan mengalami error
 dan berjalan dengan sempurna
 ```
-|val umur = 24                  |
-|umur = 25           //error    |
+val umur = 24                  
+umur = 25           //error    
 ```
 Sedangkan jika kita mencoba merubah variabel val akan mengalami error
